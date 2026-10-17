@@ -1,0 +1,6 @@
+{
+  "name": "IPL Cricket Data Analysis Dashboard",
+  "description": "Interactive IPL Cricket Data Analysis dashboard exploring historical matches, ball-by-ball statistics, batting, bowling, team performance, and season trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
